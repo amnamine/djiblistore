@@ -1,0 +1,46 @@
+[Running] python -u "d:\AMINE2\COURS FAC\LEARNING\Python\DjezzyProjec\Products\ai_test5.py"
+[AI] Loading dataset from dataset_train5.csv...
+[AI] Training model on 4691 examples...
+[AI] Training Complete.
+[SUCCESS] Model saved to 'djezzy_ai_brain5.pkl'
+
+==================================================
+   DJIBLY INTELLIGENT SEARCH DEMO   
+==================================================
+
+>> User Search: 'tablette'
+   [MATCH] (0.77) -> D Tech Tablette D Tech 8 [15 500 DA]
+   [MATCH] (0.77) -> D Tech Tablette D Tech 7 [13 200 DA]
+   [MATCH] (0.74) -> D Tech Tablette D Tech 10 [18 100 DA]
+   [MATCH] (0.51) -> ZTE NUBIA MUSIC POP ART [25 500 DA]
+   [MATCH] (0.50) -> D Tech Power Bank DPC65 [7 990 DA]
+
+>> User Search: 'wifi d-link'
+   [MATCH] (0.92) -> D Link DWR G403 [10 500 DA]
+   [MATCH] (0.91) -> D Link DWR M961 [9 900 DA]
+   [MATCH] (0.89) -> D Link DWR M920 B1 [8 900 DA]
+   [MATCH] (0.87) -> ZTE Blade A55 [20 900 DA]
+   [MATCH] (0.87) -> D Tech Tablette D Tech 8 [15 500 DA]
+
+>> User Search: 'telephone zte'
+   [MATCH] (0.83) -> ZTE Blade A55 [20 900 DA]
+   [MATCH] (0.76) -> ZTE BLADE A35 [17 900 DA]
+   [MATCH] (0.75) -> ZTE BLADE V60 DESIGN [32 900 DA]
+   [MATCH] (0.74) -> ZTE BLADE A75 [31 900 DA]
+   [MATCH] (0.72) -> ZTE NUBIA MUSIC POP ART [25 500 DA]
+
+>> User Search: 'kitman hoco'
+   [MATCH] (0.51) -> HOCO �couteurs  EW27 [3 400 DA]
+   [MATCH] (0.48) -> HOCO �couteurs  EW25 [2 550 DA]
+   [MATCH] (0.47) -> HOCO �couteurs M1 PRO [1 500 DA]
+   [MATCH] (0.47) -> HOCO X88 Charging Cable [400 DA]
+   [MATCH] (0.45) -> HOCO CABLE BX54 TYPE C [399 DA]
+
+>> User Search: 'modem 4g'
+   [MATCH] (0.97) -> D Link DWR G403 [10 500 DA]
+   [MATCH] (0.97) -> D Link DWR M961 [9 900 DA]
+   [MATCH] (0.97) -> TCL HH40L1 [8 690 DA]
+   [MATCH] (0.96) -> D Link DWR M920 B1 [8 900 DA]
+   [MATCH] (0.96) -> D Link BOX Home M915V [9 100 DA]
+
+[Done] exited with code=0 in 6.596 seconds

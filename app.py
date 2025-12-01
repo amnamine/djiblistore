@@ -13,7 +13,7 @@ app = Flask(__name__)
 # ==========================================
 # 1. CONFIGURATION & LOGIC
 # ==========================================
-MODEL_FILE = "djezzy_ai_brain4.pkl"
+MODEL_FILE = "djezzy_ai_brain5.pkl"
 JSON_FILE = "scraping4.json"
 
 # Synonyms Dictionary (Same as your training)
