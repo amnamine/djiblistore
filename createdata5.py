@@ -7,7 +7,7 @@ import uuid
 # ==========================================
 # CONFIGURATION
 # ==========================================
-INPUT_FILE = 'scraping4.json'
+INPUT_FILE = 'scraping5.json'
 OUTPUT_FILE = 'dataset_train5.csv'  # Saving as the new version
 
 TARGET_DATASET_SIZE = 3500 

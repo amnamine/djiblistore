@@ -129,7 +129,7 @@ class DjezzySearchApp(tk.Tk):
         self.model_loaded = False
         
         # SYNCED FILENAME
-        model_filename = "djezzy_ai_brain4.pkl"
+        model_filename = "djezzy_ai_brain5.pkl"
         
         if os.path.exists(model_filename):
             if self.engine.load_model(model_filename):

@@ -14,7 +14,7 @@ app = Flask(__name__)
 # 1. CONFIGURATION & LOGIC
 # ==========================================
 MODEL_FILE = "djezzy_ai_brain5.pkl"
-JSON_FILE = "scraping4.json"
+JSON_FILE = "scraping5.json"
 
 # Synonyms Dictionary (Same as your training)
 SYNONYMS = {
